@@ -1,8 +1,8 @@
 # Transformer
 
-# 🧠 Transformer from Scratch – English → Spanish Translation
+# Transformer from Scratch – English → Spanish Translation
 
-## 📌 Project Overview  
+## Project Overview  
 This project implements the **Transformer architecture from scratch** (no HuggingFace Trainer or high-level libraries) using **PyTorch**.  
 It demonstrates how an encoder–decoder model can be built, trained, and evaluated for **machine translation** tasks.  
 
@@ -19,7 +19,7 @@ The model follows the original *Attention is All You Need* paper and includes:
 
 ---
 
-## ✨ Features  
+## Features  
 - From-scratch Transformer (no external seq2seq library)  
 - **Opus Books (en–es)** dataset for English → Spanish translation  
 - **Greedy decoding** for inference  
